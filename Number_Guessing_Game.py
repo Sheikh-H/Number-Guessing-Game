@@ -198,6 +198,7 @@ def start_game():
                 clear_screen()
                 print("Go higher!")
             elif user_input > select_num:
+                clear_screen()
                 print("Go lower!")
             elif user_input == select_num:
                 clear_screen()

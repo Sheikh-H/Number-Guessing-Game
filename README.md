@@ -51,7 +51,7 @@ Your task? Guess the number as fast as possible and see your name rise to the to
 <pre>
 Number-Guessing-Game/
 │
-├── main.py     # Main game file
+├── main.py                     # Main game file
 ├── README.md                   # Project documentation
 └── LICENCE                     # (MIT Licence)
 </pre>

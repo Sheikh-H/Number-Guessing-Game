@@ -52,7 +52,6 @@ Your task? Guess the number as fast as possible and see your name rise to the to
 Number-Guessing-Game/
 │
 ├── number_guessing_game.py     # Main game file
-├── score_board.json            # Leaderboard data file
 ├── README.md                   # Project documentation
 └── LICENSE                     # (MIT License)
 </pre>

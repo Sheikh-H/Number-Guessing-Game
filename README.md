@@ -1,4 +1,4 @@
-<h1 align="center">🎯 Python Number Guessing Game</h1>
+<h1 align="center">🎯 Number Guessing Game</h1>
 
 <p align="center">
   <b>A fun and interactive number guessing game built in Python.</b><br>
@@ -10,7 +10,7 @@
 <h2>📘 Overview</h2>
 
 <p>
-<strong>Python Number Guessing Game</strong> is a console-based game where players attempt to guess a randomly generated number between 0 and 1000.  
+<strong>Number Guessing Game</strong> is a console-based game where players attempt to guess a randomly generated number between 0 and 1000.  
 It includes a <strong>real-time timer</strong>, <strong>leaderboard system</strong>, and <strong>data persistence</strong> using JSON files.
 </p>
 
@@ -35,7 +35,7 @@ Your task? Guess the number as fast as possible and see your name rise to the to
 <h2>🧩 Features</h2>
 
 <ul>
-  <li>💡 <b>Randomized number generation</b> every playthrough</li>
+  <li>💡 <b>Randomised number generation</b> every playthrough</li>
   <li>⏱️ <b>Real-time timer</b> to measure your guessing speed</li>
   <li>🏆 <b>Leaderboard system</b> saved to <code>score_board.json</code></li>
   <li>🧹 <b>Reset scores</b> with one menu option</li>
@@ -53,7 +53,7 @@ Number-Guessing-Game/
 │
 ├── main.py                     # Main game file
 ├── README.md                   # Project documentation
-└── LICENCE                     # (MIT Licence)
+└── LICENCE                     # MIT Licence
 </pre>
 
 ---
@@ -126,7 +126,7 @@ Number-Guessing-Game/
 <h2>🏁 Example Gameplay</h2>
 
 <pre>
-*WELCOME TO THE PYTHON NUMBER GUESSING GAME*
+*WELCOME TO THE NUMBER GUESSING GAME*
 
 1. Start Game
 2. View Scoreboard
@@ -161,7 +161,7 @@ SHEIKH! You finished in 01:23
 <h2>🚀 Future Improvements</h2>
 
 <ul>
-  <li>🎨 Add color-coded output for hints and results</li>
+  <li>🎨 Add colour-coded output for hints and results</li>
   <li>📈 Introduce difficulty levels (Easy / Medium / Hard)</li>
   <li>🧾 Add a score history view with timestamps</li>
   <li>💾 Store high scores in a database for multiplayer mode</li>
@@ -184,8 +184,8 @@ Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+copies of the Software, and to permit persons to whom the Software is furnished
+to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
